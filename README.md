@@ -1,12 +1,4 @@
-# NIST 800-171 Continuous Compliance Lab
-
-Yes — that’s exactly the kind of phrasing hiring managers respond to, and it’s more impactful than the generic “OPA compliance evaluation framework” opener.
-
-Here’s how I’d rewrite the README summary using your suggested language but keeping it polished:
-
----
-
-## NIST 800-171 Policy-as-Code Compliance Framework
+## NIST 800-171 Policy-as-Code Continuous Compliance Framework
 
 This project demonstrates the integration of **policy-as-code** into a **CI/CD workflow**, where every code or configuration change is automatically validated against **NIST 800-171** security controls.
 
